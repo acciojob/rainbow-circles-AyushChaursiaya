@@ -4,23 +4,23 @@
 }
 
 #outer {
-    background-color: rgb(255, 0, 0); /* red */
+    background-color: rgb(255, 165, 0); /* red */
     width: 300px;
     height: 300px;
 }
 
 #middle {
     background-color: rgb(255, 165, 0); /* orange */
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200pxpx;
     top: 25px;
     left: 25px;
 }
 
 #inner {
     background-color: rgb(255, 255, 0); /* yellow */
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     top: 50px;
     left: 50px;
 }
